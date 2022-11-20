@@ -1,0 +1,76 @@
+#T{
+    color: brown;
+    font-size: 2rem;
+}
+fieldset{
+    margin-top: 3%;
+    width: 400px;
+    margin-left:100px ;
+    border-radius: 0.5%;
+    
+    background-color: black;
+    border-color: #d3ad7f;
+}
+#inside{
+    color: rgb(255, 255, 255);
+    font-size: 1.2rem;
+}
+.Fs{
+    color:  #d3ad7f;
+    
+}
+#gps{
+    
+    float: left;
+    width: 20%;
+    height:10%;
+    
+}
+#gpss{
+    
+    float: right;
+    width: 20%;
+    height:15%;
+    
+}
+#tt{
+    color:  rgb(255, 255, 255);
+    font-size: 1.5rem;
+
+}
+#postt{
+    border-color: #d3ad7f;
+    
+    border-style: solid;
+    border-radius: 50px;
+    border-width: 2px;
+    width: 200px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.gpst{
+    width: 5%;
+    border-radius: 10%;
+}
+body{
+    background-image: url(../Images/bg1.jpg);
+}
+
+.btn{
+    margin-left: 240px;
+    clear: both;
+    margin-top: 1rem;
+    display: inline-block;
+    padding:.9rem 3rem;
+    font-size: 1.7rem;
+    color:rgb(255, 255, 255);
+    background: #000000;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+.btn:hover{
+    letter-spacing: .2rem;
+}
+

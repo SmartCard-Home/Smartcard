@@ -1,0 +1,28 @@
+div{
+    bottom: 70%;
+
+}
+video{
+    width: 700px;
+    border-radius: 20px;
+}
+body{
+    background-color: #000000;
+    background-image: url(home-img.jpeg);
+}
+.btn{
+    margin-left: 200px;
+    clear: both;
+    margin-top: 1rem;
+    display: inline-block;
+    padding:.9rem 3rem;
+    font-size: 1.7rem;
+    color:#fff;
+    background: #000000;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+.btn:hover{
+    letter-spacing: .2rem;
+}
